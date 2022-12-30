@@ -2569,7 +2569,7 @@ header .onhover-div {
     right: unset;
     left: 0; }
 
-@media (max-width: 300px) {
+@media (max-width: 767) {
   header .wislist-dropdown {
     display: none; } }
 
