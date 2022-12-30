@@ -2569,7 +2569,7 @@ header .onhover-div {
     right: unset;
     left: 0; }
 
-@media (max-width: 575px) {
+@media (max-width: 300px) {
   header .wislist-dropdown {
     display: none; } }
 
@@ -3196,7 +3196,7 @@ header .main-menu {
         padding-left: 8px; } }
   header .main-menu .menu-right .search-box {
     padding: 10px 12px;
-    color: #fff;
+    color: #212529;
     cursor: pointer; }
     header .main-menu .menu-right .search-box.black-search-icon {
       color: #212529; }
